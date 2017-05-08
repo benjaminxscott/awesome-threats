@@ -37,7 +37,7 @@ TODO
 ## When You are Average
 - [Get a Mac with Chrome or a Chromebook] (https://www.amazon.com/Chromebooks/b?ie=UTF8&node=2858603011)
 - Use Google Drive or Dropbox instead of Word
-- Install [AdBlockPlus](https://adblockplus.org/) and [DisconnectMe](https://disconnect.me/)
+- Install [AdBlockPlus](https://adblockplus.org/) and [DisconnectMe](https://disconnect.me/) and [Password Alert](https://chrome.google.com/webstore/detail/password-alert/noondiphcddnnabmjcihcjfbhfklnnep/)
 
 ## When You Develop Software
 - 
