@@ -1,7 +1,7 @@
 # awesome-threats
 A curated list of security threats and how to mitigate them
 
-First, are you worried about [threats to the company you work for]( or [threats to you personally](#what-kind-of-user-are-you] 
+First, are you worried about [threats to the company you work for](#on-tech-company) or [threats to you personally](#what-kind-of-user-are-you) 
 
 
 ## Non-tech company
@@ -40,7 +40,8 @@ TODO
 - Install [AdBlockPlus](https://adblockplus.org/) and [DisconnectMe](https://disconnect.me/) and [Password Alert](https://chrome.google.com/webstore/detail/password-alert/noondiphcddnnabmjcihcjfbhfklnnep/)
 
 ## When You Develop Software
-- 
+- Use input sanitization on any user-provided input
+- Be careful when rendering HTML and doing redirects to mutable URLs
 - Require valid API tokens for non-public endpoints and [rate limiting for public endpoints](https://nginx.org/en/docs/http/ngx_http_limit_req_module.html)
 - Keep your servers and dependencies patched
 - Give your webapp [end-to-end crypto](https://letsencrypt.org/getting-started/)
